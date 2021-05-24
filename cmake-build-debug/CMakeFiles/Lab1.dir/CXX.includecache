@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Circulo.cpp
+Circulo.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Circulo.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Circulo.h
+Figura.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Figura.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Cuadrado.cpp
+Cuadrado.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Cuadrado.h
+Cuadrado.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Cuadrado.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Cuadrado.h
+Figura.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Figura.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Figura.cpp
+Figura.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Figura.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Figura.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/main.cpp
+iostream
+-
+Figura.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Figura.h
+Circulo.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Circulo.h
+Cuadrado.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab1/Cuadrado.h
+
